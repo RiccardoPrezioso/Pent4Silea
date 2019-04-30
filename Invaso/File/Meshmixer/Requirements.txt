@@ -1,0 +1,8 @@
+System Requirements Meshmixer 3.5
+Microsoft Windows 7 or later or OS X / macOS 10.11 or later 
+4GB system RAM 
+Integrated or discrete graphics card with latest drivers
+System Requirements Meshmixer 3.3
+Microsoft Windows 7 or later or OS X / macOS 10.7 or later 
+4GB system RAM 
+Integrated or discrete graphics card with latest drivers
